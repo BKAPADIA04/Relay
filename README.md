@@ -26,3 +26,7 @@ before generation and taking a corrective action based on that grade:
 
 This project is in early development. Architecture and implementation details
 will be fleshed out as the system is built.
+
+## Reference
+
+- Yan, S.-Q., Gu, J.-C., Zhu, Y., & Ling, Z.-H. (2024). [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884). arXiv:2401.15884.

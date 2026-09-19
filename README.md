@@ -1,4 +1,4 @@
-# ReRAG
+# Relay
 
 A Corrective Retrieval-Augmented Generation (Corrective RAG / CRAG) system.
 
@@ -6,7 +6,7 @@ A Corrective Retrieval-Augmented Generation (Corrective RAG / CRAG) system.
 
 Standard RAG pipelines blindly trust whatever the retriever returns, which means
 irrelevant or low-quality documents can end up feeding the generator and
-degrading answer quality. ReRAG addresses this by grading retrieved documents
+degrading answer quality. Relay addresses this by grading retrieved documents
 before generation and taking a corrective action based on that grade:
 
 - **Correct** — retrieved documents are relevant; refine and pass them to the generator.

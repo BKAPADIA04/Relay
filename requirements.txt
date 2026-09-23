@@ -1,0 +1,27 @@
+# LLM orchestration
+langchain
+langchain-community
+langchain-anthropic
+langchain_google_genai
+langgraph
+
+# Embeddings / vector store
+langchain-chroma
+chromadb
+sentence-transformers
+faiss-cpu
+
+# Document loading / parsing
+pypdf
+unstructured
+
+# Web search fallback (corrective retrieval)
+tavily-python
+
+# Utilities
+python-dotenv
+tiktoken
+
+# Notebooks
+jupyter
+ipykernel
